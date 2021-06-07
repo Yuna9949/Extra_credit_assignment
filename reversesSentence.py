@@ -6,4 +6,4 @@ def reverseSentence(sentence):
         result = result+word+' '
     return result.rstrip()
 
-reverseSentence("My name is Yuna")
+#reverseSentence("My name is Yuna")
